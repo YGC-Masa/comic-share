@@ -1,0 +1,4 @@
+name = "comic-share"
+main = "worker.js"
+compatibility_date = "2026-09-27"
+workers_dev = true
